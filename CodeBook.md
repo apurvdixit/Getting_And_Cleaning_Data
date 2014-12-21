@@ -1,9 +1,9 @@
+﻿
 
+##Code book
 
-Code book
-
-Working with data
-Description of the run_analytics.R process
+#Working with data
+#Description of the run_analytics.R process
 1.Loads library  plyr  
 2.Downloads required data from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 3.Creates results folder
